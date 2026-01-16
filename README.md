@@ -3,19 +3,20 @@
   <img width="865" height="112" alt="image" src="https://github.com/eugmag/ghana_training_2026/blob/main/content/workshop_logo.png" />
 </p>
 
-Welcome to the repository for scripts and data for the UKCEH West Africa Hydrological Forecasting Training Workshop 2026.
+Welcome to the repository for the UKCEH West Africa Hydrological Forecasting Training Workshop 2026.
 
-This series of hands-on workshops introduces the fundamentals of accessing, modelling, and analysing hydrological data and approaches. Each session is designed to build practical skills through guided exercises and additional resources. Below you will find brief summaries of each workshop, along with links to the corresponding resources that we will explore together during the training.
+This repository supports a three-day training workshop focused on building end-to-end capability in hydrological forecasting, from data access and exploration to modelling and operational forecast applications. The workshop progresses from working with hydroclimate datasets, through machine-learning-based water resources modelling, to the generation and interpretation of sub-seasonal to seasonal hydrological forecasts for decision making. The materials are organised by day and theme, with each section containing follow-along notebooks, scripts, example datasets, and guidance to enable participants to reproduce and adapt the methods introduced during the sessions.
 
 ---
 
 ## Training Objectives
 The high-level objectives of this summer school are:
-- Demonstrate how to access and work with remote datasets using Python
-- Provide an overview of key datasets commonly used in hydrological science
-- Offer hands-on experience with standard tools and packages through practical applications
-- Introduce fundamental concepts in water resources modelling
-- Seasonal forecasting???? 
+- Demonstrate how to access, retrieve, and work with remote hydrological and hydroclimate datasets using Python and common data access protocols.
+- Introduce key hydrological and hydroclimate datasets and explore practical techniques for data processing, visualisation, and exploratory analysis.
+- Provide hands-on experience with water resources modelling using machine-learning approaches, including feature engineering, model training, hyperparameter tuning, and model evaluation.
+- Introduce conceptual hydrological modelling for catchment-scale applications and guide participants through model calibration and simulation.
+- Demonstrate the generation and interpretation of sub-seasonal to seasonal hydrological forecasts, including ensemble streamflow prediction.
+- Explore approaches for visualising, categorising, and communicating forecast products to support decision-making in operational contexts.
 
 <a id='running-on-colab'></a>
 ## Running the Training Notebooks on Google Colab
@@ -36,7 +37,7 @@ To run the training notebooks using *Google Colab*, follow these steps:
 ---
 
 ## Introduction to the Workshops
-This series of different interactive workshops is designed to introduce participants to data-driven approaches in hydrological science. Each session focuses on a specific aspect of working with hydrological data, from modelling concepts to accessing, exploring, and applying datasets in research contexts.
+This series of interactive, hands-on workshops is designed to introduce participants to practical approaches for hydrological forecasting and analysis. Each session focuses on a key component of the hydrological forecasting workflow, progressing from accessing and exploring hydrological and hydroclimate datasets, through data-driven and machine-learning-based water resources modelling, to the application of hydrological models for sub-seasonal to seasonal forecasting and decision-support. The workshops emphasise practical skill development through guided exercises, enabling participants to apply the methods and tools introduced to their own research and operational contexts.
 
 ### Agenda
 | | Day 1: 27 January 2026 <br> Theme: Hydrological Datasets </br> | Day 2: 28 January 2026 <br> Theme: Water Resources Modelling </br> | Day 3: 29 January 2026 <br> Theme: Seasonal Forecast Applications </br> |
