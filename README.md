@@ -40,18 +40,18 @@ To run the training notebooks using *Google Colab*, follow these steps:
 This series of interactive, hands-on workshops is designed to introduce participants to practical approaches for hydrological forecasting and analysis. Each session focuses on a key component of the hydrological forecasting workflow, progressing from accessing and exploring hydrological and hydroclimate datasets, through data-driven and machine-learning-based water resources modelling, to the application of hydrological models for sub-seasonal to seasonal forecasting and decision-support. The workshops emphasise practical skill development through guided exercises, enabling participants to apply the methods and tools introduced to their own research and operational contexts.
 
 ### Overview Agenda
-| | Day 1: 27 January 2026 <br> Theme: Hydrological Datasets </br> | Day 2: 28 January 2026 <br> Theme: Water Resources Modelling </br> | Day 3: 29 January 2026 <br> Theme: Seasonal Forecast Applications </br> |
+| | Day 1:  <br> 27 January 2026 <br> Theme: Hydrological Datasets | Day 2: <br> 28 January 2026 <br> Theme: Water Resources Modelling | Day 3: <br> 29 January 2026 <br> Theme: Seasonal Forecast Applications |
 | --- | --- | --- | --- |
-| 08:30 - 09:00 | Registration | --- | --- |
-| 09:00 - 10:00 | Welcome & Introduction | Talk: Introduction to Machine Learning (ML) based modelling | Talk: Introduction to Applications |
-| 10:00 - 11:00 | Hands-on: Computing setup and testing | Workshop: ML-based water resource modelling training and prediction | Workshop: Running a Hydrological Model |
-| 11:00 - 11:30 | BREAK | BREAK | BREAK |
-| 11:30 - 13:00 | Workshop: Remote data access | Workshop: Explore feature selection/hyper parameter tuning | Workshop: Running Ensemble Streamflow Prediction |
-| 13:00 - 14:00 | LUNCH | LUNCH | LUNCH |
-| 14:00 - 15:30 | Workshop: Data analysis and visualisation | Workshop:  ML exploration (different models, ensemble forecasting and different reservoirs) | Workshop: Categorizing a Forecast Product for Enhanced Decision Making |
-| 15:30 - 16:00 | BREAK | BREAK | BREAK |
-| 16:00 - 17:00 | Q/A | Q/A | Q/A |
-| 18:00 - 21:00 | --- | DINNER | --- |
+| 08:30 - 09:00 | **REGISTRATION** | --- | --- |
+| 09:00 - 10:00 | Welcome & Introductions | **Talk:** Reservoir modelling <br> **Talk:** Introduction to Machine Learning (ML)   | **Talk:** Introduction to forecast methods & applications |
+| 10:00 - 11:00 | **Hands-on:** Computing setup and testing | **Workshop:** ML reservoir modelling | **Workshop:** Running a hydrological model |
+| 11:00 - 11:30 | **BREAK** | **BREAK** | **BREAK** |
+| 11:30 - 13:00 | **Workshop:** Remote data access | **Workshop:** ML reservoir modelling | **Workshop:** Running Ensemble Streamflow Prediction (ESP) |
+| 13:00 - 14:00 | **LUNCH** | **LUNCH** | **LUNCH** |
+| 14:00 - 15:30 | **Workshop:** Data analysis and visualisation | **Talk:** the benefits of a multi-reservoir ML model <br> **Workshop:** ML reservoir modelling | **Talk:** WMO HydroSOS <br> **Workshop:** Categorising a forecast product for enhanced decision making |
+| 15:30 - 16:00 | **BREAK** | **BREAK** | **BREAK** |
+| 16:00 - 17:00 | Q/A and wrap-up | Group discussion on workshop outcomes <br> Q/A and wrap-up | Q/A, wrap-up and close |
+| 18:00 - 21:00 | --- | **GROUP DINNER** | --- |
 
 
 ### Theme 1: Hydrological Datasets
