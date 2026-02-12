@@ -10,7 +10,7 @@ This repository supports a three-day training workshop focused on building end-t
 ---
 
 ## Training Objectives
-The high-level objectives of this summer school are:
+The high-level objectives of this training workshop are:
 - Demonstrate how to access, retrieve, and work with remote hydrological and hydroclimate datasets using Python and common data access protocols.
 - Introduce key hydrological and hydroclimate datasets and explore practical techniques for data processing, visualisation, and exploratory analysis.
 - Provide hands-on experience with water resources modelling using machine-learning approaches, including feature engineering, model training, hyperparameter tuning, and model evaluation.
